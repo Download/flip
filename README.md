@@ -1,5 +1,7 @@
 # jQuery Flip <sub><sup>v1.0.11</sup></sub>
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Download/flip.svg)](https://greenkeeper.io/)
+
 **A lightweight jQuery plugin to create 3d flip animation.** 
 See the [project page](http://nnattawat.github.io/flip/)
 
